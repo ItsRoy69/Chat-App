@@ -15,7 +15,8 @@ const App = () => {
          userName={localStorage.getItem('username')}
          userSecret={localStorage.getItem('password')}
          // to add more people u need to add more users in ChatEngine
-
+         // Tamlu & Jyotirmoy has 123123
+ 
          renderChatFeed={(chatAppProps) => <ChatFeed {...chatAppProps} />}
 
     />
