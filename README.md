@@ -1,3 +1,27 @@
+# Chat App
+
+Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS!
+
+# Deployed Website
+
+https://chat-app-j2dhqgqzr-itsroy69.vercel.app/
+
+## Logging
+
+```
+Username - Visitor
+Password - 6969
+```
+
+## If we want to login  from other account
+
+
+```Inspect -> Application -> Delete the username and password.```
+--------------------------------------------------------
+
+Backend - https://chatengine.io/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
