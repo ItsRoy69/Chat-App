@@ -1,6 +1,6 @@
 # Chat App
 
-Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS!
+A normal Chat App using React, Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS!
 
 # Deployed Website
 
