@@ -13,7 +13,9 @@ This website is basically a normal Chat App using React, Sockets, Rest APIs, Sen
 
 ## Features
 
-Link - https://chat-app-j2dhqgqzr-itsroy69.vercel.app/
+Frontend - https://chat-app-j2dhqgqzr-itsroy69.vercel.app/
+
+Backend - https://chatengine.io/
 
 ## Logging
 
@@ -27,9 +29,6 @@ Password - 6969
 ```Inspect -> Application -> Delete the username and password.```
 --------------------------------------------------------
 
-Backend - https://chatengine.io/
-
-<br/>
 
 # Clone the repository
 `git clone https://github.com/ItsRoy69/Chat-App.git`
